@@ -1,0 +1,1808 @@
+Mono path[0] = 'E:/albalbalbalbalbalbalbalb/al PersoRd/UN_Data/Managed'
+Mono path[1] = 'E:/albalbalbalbalbalbalbalb/al PersoRd/UN_Data/Mono'
+Mono config path = 'E:/albalbalbalbalbalbalbalb/al PersoRd/UN_Data/Mono/etc'
+PlayerConnection initialized from E:/albalbalbalbalbalbalbalb/al PersoRd/UN_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55152
+Multi-casting "[IP] 192.168.1.15 [Port] 55152 [Flags] 2 [Guid] 4282148455 [EditorId] 841164507 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-FJE2G3I) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.1.15:55152]
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     2016 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\Generators.dll (this message is harmless)
+Loading E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\Generators.dll into Unity Child Domain
+Platform assembly: E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.451 seconds
+Platform assembly: E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 2732x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Char') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1655)
+
+UnloadTime: 1.339356 ms
+DatabaseNotFoundException: No InventoryItemDatabase found, can't continue.
+  at Devdog.InventorySystem.InventoryDatabaseLookup`1[Devdog.InventorySystem.InventoryItemDatabase].GetDatabase () [0x0007b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryDatabaseLookup.cs:96 
+  at Devdog.InventorySystem.ItemManager.get_database () [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\ItemManager.cs:68 
+  at Devdog.InventorySystem.InventoryItemContainerGenerator.Awake () [0x0001b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Modules\ItemGenerators\InventoryItemContainerGenerator.cs:30 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryDatabaseLookup.cs Line: 96)
+
+Platform assembly: E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\Boo.Lang.dll (this message is harmless)
+No 'Inventory' found in game. The Item Iron Mace (1) has been disabled for pickup (canGet = false).
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Item:Awake() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Inventory\Scripts\Items\Item.js:28)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Inventory/Scripts/Items/Item.js Line: 28)
+
+No 'Inventory' found in game. The Item Iron Mace has been disabled for pickup (canGet = false).
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Item:Awake() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Inventory\Scripts\Items\Item.js:28)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Inventory/Scripts/Items/Item.js Line: 28)
+
+No 'Inventory' found in game. The Item Knife has been disabled for pickup (canGet = false).
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Item:Awake() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Inventory\Scripts\Items\Item.js:28)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Inventory/Scripts/Items/Item.js Line: 28)
+
+No 'Inventory' found in game. The Item Axe has been disabled for pickup (canGet = false).
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+Item:Awake() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Inventory\Scripts\Items\Item.js:28)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Inventory/Scripts/Items/Item.js Line: 28)
+
+DatabaseNotFoundException: No InventoryItemDatabase found, can't continue.
+  at Devdog.InventorySystem.InventoryDatabaseLookup`1[Devdog.InventorySystem.InventoryItemDatabase].GetDatabase () [0x0007b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryDatabaseLookup.cs:96 
+  at Devdog.InventorySystem.ItemManager.get_database () [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\ItemManager.cs:68 
+  at Devdog.InventorySystem.InventoryItemContainerGenerator.Awake () [0x0001b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Modules\ItemGenerators\InventoryItemContainerGenerator.cs:30 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryDatabaseLookup.cs Line: 96)
+
+DatabaseNotFoundException: No InventoryItemDatabase found, can't continue.
+  at Devdog.InventorySystem.InventoryDatabaseLookup`1[Devdog.InventorySystem.InventoryItemDatabase].GetDatabase () [0x0007b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryDatabaseLookup.cs:96 
+  at Devdog.InventorySystem.ItemManager.get_database () [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\ItemManager.cs:68 
+  at Devdog.InventorySystem.InventoryItemContainerGenerator.Awake () [0x0001b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Modules\ItemGenerators\InventoryItemContainerGenerator.cs:30 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryDatabaseLookup.cs Line: 96)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Devdog.InventorySystem.VendorTriggerer.Start () [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Modules\Triggerers\VendorTriggerer.cs:131 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Modules/Triggerers/VendorTriggerer.cs Line: 131)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.UI.UIShowStat.Start () [0x0000b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\UI\UIWindow\UIShowStat.cs:41 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Camera__S_No__S_UI__S.Start () [0x00062] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:37 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Visn_'S/Programing_'S/Camera__S_No__S_UI__S.cs Line: 37)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.UI.UIShowStat.Start () [0x0000b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\UI\UIWindow\UIShowStat.cs:41 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Devdog.InventorySystem.VendorTriggerer.Start () [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Modules\Triggerers\VendorTriggerer.cs:131 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Modules/Triggerers/VendorTriggerer.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Devdog.InventorySystem.VendorTriggerer.Start () [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Modules\Triggerers\VendorTriggerer.cs:131 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Modules/Triggerers/VendorTriggerer.cs Line: 131)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Devdog.InventorySystem.LootableObject.Start () [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Modules\Triggerers\LootableObject.cs:80 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Modules/Triggerers/LootableObject.cs Line: 80)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.UI.UIShowStat.Start () [0x0000b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\UI\UIWindow\UIShowStat.cs:41 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Devdog.InventorySystem.LootableObject.Start () [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Modules\Triggerers\LootableObject.cs:80 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Modules/Triggerers/LootableObject.cs Line: 80)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Iron Mace (1)", Mesh asset path "" Mesh name "Icosphere_001"
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Dynamics/PhysicsManager.cpp Line: 1268)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Iron Mace", Mesh asset path "" Mesh name "Icosphere_001"
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Dynamics/PhysicsManager.cpp Line: 1268)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Knife", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Dynamics/PhysicsManager.cpp Line: 1268)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Axe", Mesh asset path "" Mesh name "cylinder1_copy21_default_001"
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Dynamics/PhysicsManager.cpp Line: 1268)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+ManagerNotFoundException: InventoryPlayerManager - Check the setup wizard to resolve the issue.
+  at Devdog.InventorySystem.InventoryPlayerManager.get_instance () [0x0003b] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Managers\InventoryPlayerManager.cs:97 
+  at Devdog.InventorySystem.TriggerStatAffector.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\InventorySystem\Scripts\Other\TriggerStatAffector.cs:55 
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/InventorySystem/Scripts/Managers/InventoryPlayerManager.cs Line: 97)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2124 -> priority: 1 
+  Thread -> id: 3bc -> priority: 1 
+Operation failed: OperationResponse 225: ReturnCode: 32760 (No match found). Parameters: {}
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+NetworkingPeer:OnOperationResponse(OperationResponse) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1416)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs Line: 1416)
+
+Can't join Random room! donc On va en créer une 
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+NetworkController:OnPhotonRandomJoinFailed() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Joueur\Programming_'S\Multi\NetworkController.cs:32)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2426)
+NetworkingPeer:OnOperationResponse(OperationResponse) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1702)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Joueur/Programming_'S/Multi/NetworkController.cs Line: 32)
+
+Joined Room
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+NetworkController:OnJoinedRoom() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Joueur\Programming_'S\Multi\NetworkController.cs:37)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2426)
+NetworkingPeer:OnEvent(EventData) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2212)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Joueur/Programming_'S/Multi/NetworkController.cs Line: 37)
+
+FuseModel(Clone) (SmoothSyncMovement) is not observed by this object's photonView! OnPhotonSerializeView() in this class won't be used.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+SmoothSyncMovement:Awake() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\UtilityScripts\SmoothSyncMovement.cs:11)
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:63)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:79)
+NetworkingPeer:DoInstantiate(Hashtable, PhotonPlayer, GameObject) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2893)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:2504)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:2448)
+NetworkController:OnJoinedRoom() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Joueur\Programming_'S\Multi\NetworkController.cs:38)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2426)
+NetworkingPeer:OnEvent(EventData) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2212)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Photon Unity Networking/UtilityScripts/SmoothSyncMovement.cs Line: 11)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Character.Awake () [0x000cc] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Inventory\Scripts\Character.js:46 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:63)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:79)
+NetworkingPeer:DoInstantiate(Hashtable, PhotonPlayer, GameObject) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2893)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:2504)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:2448)
+NetworkController:OnJoinedRoom() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Joueur\Programming_'S\Multi\NetworkController.cs:38)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2426)
+NetworkingPeer:OnEvent(EventData) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2212)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Inventory/Scripts/Character.js Line: 46)
+
+No Inventory Display script was found on FuseModel(Clone) but an Inventory script was.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Inventory:Awake() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Inventory\Scripts\Inventory.js:22)
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:63)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:79)
+NetworkingPeer:DoInstantiate(Hashtable, PhotonPlayer, GameObject) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2893)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:2504)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:2448)
+NetworkController:OnJoinedRoom() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Joueur\Programming_'S\Multi\NetworkController.cs:38)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2426)
+NetworkingPeer:OnEvent(EventData) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2212)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Inventory/Scripts/Inventory.js Line: 22)
+
+Unless a Inventory Display script is added the Inventory won't show. Add it to the same gameobject as the Inventory for maximum performance
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Inventory:Awake() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Inventory\Scripts\Inventory.js:22)
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:63)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:79)
+NetworkingPeer:DoInstantiate(Hashtable, PhotonPlayer, GameObject) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2893)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:2504)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:2448)
+NetworkController:OnJoinedRoom() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Joueur\Programming_'S\Multi\NetworkController.cs:38)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2426)
+NetworkingPeer:OnEvent(EventData) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2212)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Inventory/Scripts/Inventory.js Line: 22)
+
+No Inventory Display script was found on Inventory but an Inventory script was.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Inventory:Awake() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Inventory\Scripts\Inventory.js:22)
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:63)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:79)
+NetworkingPeer:DoInstantiate(Hashtable, PhotonPlayer, GameObject) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2893)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:2504)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:2448)
+NetworkController:OnJoinedRoom() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Joueur\Programming_'S\Multi\NetworkController.cs:38)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2426)
+NetworkingPeer:OnEvent(EventData) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2212)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Inventory/Scripts/Inventory.js Line: 22)
+
+Unless a Inventory Display script is added the Inventory won't show. Add it to the same gameobject as the Inventory for maximum performance
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Inventory:Awake() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Inventory\Scripts\Inventory.js:22)
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:63)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:79)
+NetworkingPeer:DoInstantiate(Hashtable, PhotonPlayer, GameObject) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2893)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:2504)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:2448)
+NetworkController:OnJoinedRoom() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Joueur\Programming_'S\Multi\NetworkController.cs:38)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2426)
+NetworkingPeer:OnEvent(EventData) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2212)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Inventory/Scripts/Inventory.js Line: 22)
+
+The variables of the 'InvPauseGame' script on 'Inventory' has not been assigned.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+InvPauseGame:Awake() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Inventory\Scripts\Other\InvPauseGame.js:51)
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:63)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:79)
+NetworkingPeer:DoInstantiate(Hashtable, PhotonPlayer, GameObject) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2893)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:2504)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:2448)
+NetworkController:OnJoinedRoom() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Joueur\Programming_'S\Multi\NetworkController.cs:38)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2426)
+NetworkingPeer:OnEvent(EventData) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2212)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Inventory/Scripts/Other/InvPauseGame.js Line: 51)
+
+The variables of the 'InvPauseGame' script on 'Inventory' has not been assigned.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+InvPauseGame:Awake() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Inventory\Scripts\Other\InvPauseGame.js:51)
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineObjectBindings.gen.cs:63)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion) (at C:\buildslave\unity\build\Runtime\Export\UnityEngineObject.cs:79)
+NetworkingPeer:DoInstantiate(Hashtable, PhotonPlayer, GameObject) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2893)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:2504)
+PhotonNetwork:Instantiate(String, Vector3, Quaternion, Int32) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs:2448)
+NetworkController:OnJoinedRoom() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Joueur\Programming_'S\Multi\NetworkController.cs:38)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2426)
+NetworkingPeer:OnEvent(EventData) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2212)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Inventory/Scripts/Other/InvPauseGame.js Line: 51)
+
+Instantiate player in room
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+NetworkController:OnJoinedRoom() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Joueur\Programming_'S\Multi\NetworkController.cs:38)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+NetworkingPeer:SendMonoMessage(PhotonNetworkingMessage, Object[]) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2426)
+NetworkingPeer:OnEvent(EventData) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:2212)
+ExitGames.Client.Photon.PeerBase:DeserializeMessageAndCallback(Byte[])
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Joueur/Programming_'S/Multi/NetworkController.cs Line: 38)
+
+Platform assembly: E:\albalbalbalbalbalbalbalb\al PersoRd\UN_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Cannot send to: 159.253.146.5. Un argument non valide a été fourni.
+
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+NetworkingPeer:DebugReturn(DebugLevel, String) (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs:1371)
+ExitGames.Client.Photon.<>c__DisplayClass136_0:<EnqueueDebugReturn>b__0()
+ExitGames.Client.Photon.EnetPeer:DispatchIncomingCommands()
+ExitGames.Client.Photon.PhotonPeer:DispatchIncomingCommands()
+PhotonHandler:Update() (at C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs:125)
+ 
+(Filename: C:/Users/Kurai.Kun/Desktop/W.O.New Unity Project Remote Created/W.O.New Unity Project/Assets/Photon Unity Networking/Plugins/PhotonNetwork/NetworkingPeer.cs Line: 1371)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Transform:INTERNAL_get_position (UnityEngine.Vector3&)
+  at UnityEngine.Transform.get_position () [0x00000] in C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineTransformBindings.gen.cs:26 
+  at Camera__S_No__S_UI__S.Update () [0x001f3] in C:\Users\Kurai.Kun\Desktop\W.O.New Unity Project Remote Created\W.O.New Unity Project\Assets\Visn_'S\Programing_'S\Camera__S_No__S_UI__S.cs:141 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineTransformBindings.gen.cs Line: 26)
+
